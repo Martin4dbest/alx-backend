@@ -1,4 +1,4 @@
-<h1>0x02. i18n</h1>
+<h1>Task on 0x02. i18n</h1>
 ==========
 
 Back-end
